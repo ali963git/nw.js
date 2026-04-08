@@ -15,7 +15,7 @@
     "node"
   ],
   "devDependencies": {
-    "nw": "^0.13.0-beta6sdk"
+    "nw": "^0.110.1"
   },
   "scripts": {
     "start": "nw --version && nw ."
